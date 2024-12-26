@@ -1,10 +1,9 @@
-## Hi there 👋
-- 🔭 I’m currently working on: nanoForge, a compiler and simulator for different RISC languages.
-- 🌱 I’m currently learning: Bash Scripting 
-- 📫 How to reach me: `linkedIn` or `anthony.b.song@gmail.com`
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My favorite dish is Chinese Stir-Fry Eggs and Tomatoes
+## Hi, I'm Anthony 👋
+- 🧑‍🎓 Studying Computer Science and Electrical Computer Engineering at Cornell, NY
+- 🎨 Sketching, painting, and other visual arts in my free time
+- 🌱 Learning Bash Scripting 🖥️ and Snowflake ❄️
 
+[![AnthonyBSong's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyBSong)](https://github.com/AnthonyBSong/github-readme-stats)
 
 <!--
 **AnthonyBSong/AnthonyBSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
