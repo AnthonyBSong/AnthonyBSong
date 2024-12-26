@@ -1,8 +1,8 @@
 ## Hi, I'm Anthony 👋
-- 🧑‍🎓 Studying Computer Science and Electrical Computer Engineering at Cornell, NY
-- 🎨 Sketching, painting, and other visual arts in my free time
-- 🌱 Learning Bash Scripting 🖥️ and Snowflake ❄️
-
+- 🧑‍🎓 Studying Computer Science 💻 and Electrical Computer Engineering 💡 at Cornell, NY
+- 🎨 Enjoying sketching ✏️, painting 🖼️, and other visual arts 🎭 in my free time
+- 🌱 Learning Bash Scripting 👾 and Snowflake ❄️
+<\br>
 ![AnthonyBSong's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyBSong&show_icons=true&theme=radical)
 
 <!--
