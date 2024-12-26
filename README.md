@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on: nanoForge, a compiler and simulator for different RISC languages.
-- 🌱 I’m currently learning: Distributed Systems and Cloud Computing 
-- 📫 How to reach me: linkedIn or via anthony.b.song@gmail.com
+- 🌱 I’m currently learning: Bash Scripting 
+- 📫 How to reach me: linkedIn or anthony.b.song@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite dish is Chinese Stir-Fry Eggs and Tomatoes
 
