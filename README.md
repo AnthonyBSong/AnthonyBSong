@@ -3,6 +3,7 @@
 - 🎨 Enjoying sketching ✏️, painting 🖼️, and other visual arts 🎭 in my free time
 - 🌱 Learning Bash Scripting 👾 and Snowflake ❄️
 <br />
+
 ![AnthonyBSong's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyBSong&show_icons=true&theme=radical)
 
 <!--
