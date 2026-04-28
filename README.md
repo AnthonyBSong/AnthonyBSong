@@ -13,4 +13,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AnthonyBSong&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjbar03&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjbar03&theme=default"/>
+  <img src="https://streak-stats.demolab.com?user=sjbar03&theme=tokyonight"/>
+</picture>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
