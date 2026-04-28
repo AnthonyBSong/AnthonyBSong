@@ -15,8 +15,8 @@
 
 ### 📊 GitHub Stats
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjbar03&theme=tokyonight"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjbar03&theme=default"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthonyBSong&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthonyBSong&theme=default"/>
   <img src="https://streak-stats.demolab.com?user=AnthonyBSong&theme=tokyonight"/>
 </picture>
 
