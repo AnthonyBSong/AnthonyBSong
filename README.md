@@ -16,9 +16,9 @@
 ---
 ### 🔥 GitHub Streak
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sjbar03&theme=tokyonight&hide_border=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sjbar03&theme=default&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com?user=sjbar03&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AnthonyBSong&theme=tokyonight&hide_border=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AnthonyBSong&theme=default&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=AnthonyBSong&theme=tokyonight"/>
 </picture>
 
 ---
