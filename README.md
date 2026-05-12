@@ -2,7 +2,7 @@
 ### About Me:
 - 🧑‍🎓 Studying Computer Science 💻 and Electrical Computer Engineering 💡 at Cornell, NY
 - Enjoying sketching ✏️, photography 📸 , and basketball 🏀 in my free time
-- 🌱 Learning Catapult HLS.
+- 🌱 Learning CUDA + GPU Architecture.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anth0ny_s0ng) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonybsong7851) 
