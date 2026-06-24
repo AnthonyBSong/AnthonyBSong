@@ -1,4 +1,5 @@
 ## Hi, I'm Anthony 👋
+![Pac-Man contributions](https://raw.githubusercontent.com/AnthonyBSong/git-pacman/output/pacman.svg)
 ### About Me:
 - 🧑‍🎓 Studying Computer Science 💻 and Electrical Computer Engineering 💡 at Cornell, NY
 - Enjoying sketching ✏️, photography 📸 , and basketball 🏀 in my free time
