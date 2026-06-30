@@ -3,7 +3,7 @@
 ### About Me:
 - 🧑‍🎓 Studying Computer Science 💻 and Electrical Computer Engineering 💡 at Cornell, NY
 - Enjoying sketching ✏️, photography 📸 , and basketball 🏀 in my free time
-- 🌱 Learning CUDA & GPU Architecture and Rust.
+- 🌱 Learning CUDA, GPU Architecture, and Rust.
 
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-121013.svg?logo=github&logoColor=white)](https://anthonybsong.github.io/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anth0ny_s0ng) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonybsong7851) 
